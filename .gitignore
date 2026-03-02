@@ -1,0 +1,19 @@
+# R data files
+*.rds
+*.RData
+*.Rds
+
+# R session
+.Rhistory
+.RData
+
+# Large data files
+*.h5
+*.h5ad
+*.loom
+
+# SLURM logs
+*.out
+
+# macOS system files
+.DS_Store
