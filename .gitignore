@@ -12,6 +12,9 @@
 *.h5ad
 *.loom
 
+# Large count matrices (exceed GitHub 100MB limit)
+Organoid_scRNAseq/output_files/counts/
+
 # SLURM logs
 *.out
 
