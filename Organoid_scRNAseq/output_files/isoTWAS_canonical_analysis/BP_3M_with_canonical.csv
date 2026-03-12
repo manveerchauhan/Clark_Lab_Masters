@@ -1,0 +1,16 @@
+transcript_id,gene_symbol,cell_type_of_origin,trait,timepoint,p_val_adj,avg_log2FC,canonical_status,tx_biotype
+ENST00000473961,BRCA1,Apical Radial Glia (aRG) - Cycling,BP,3M,2.22211170650388e-114,6.09499736853914,non-canonical,protein_coding
+ENST00000320033,ARL4D,Intermediate Progenitors (IP),BP,3M,3.29296899841318e-79,1.96017930098703,canonical,protein_coding
+ENST00000427946,NCAPH,Apical Radial Glia (aRG) - Cycling,BP,3M,1.16794044135362e-74,6.12654336193225,non-canonical,protein_coding
+ENST00000360476,NMB,Intermediate Progenitors (IP),BP,3M,6.31858516240801e-22,2.00540921282208,canonical,protein_coding
+ENST00000357137,XPNPEP3,Glutamatergic Neurons (Unspecified Layer),BP,3M,7.43225949536468e-19,1.29392355033559,canonical,protein_coding
+ENST00000320033,ARL4D,Outer Radial Glia (oRG),BP,3M,3.78571115380303e-18,-2.13775223558105,canonical,protein_coding
+ENST00000286760,WHAMM,Glutamatergic Neurons (Unspecified Layer),BP,3M,3.3193257067392e-17,1.20015174061497,canonical,protein_coding
+ENST00000529582,LTBP3,Outer Radial Glia (oRG),BP,3M,3.77684052885998e-15,2.34035260683857,non-canonical,retained_intron
+ENST00000320033,ARL4D,Corticothalamic Projection Neurons (Deep Layer),BP,3M,8.08744627018225e-11,-0.999606677078823,canonical,protein_coding
+ENST00000445210,FASTKD1,Corticothalamic Projection Neurons (Deep Layer),BP,3M,1.41583117235751e-09,1.35959475698486,non-canonical,protein_coding
+ENST00000360476,NMB,Corticothalamic Projection Neurons (Deep Layer),BP,3M,3.9568233093813e-06,-2.26678025431403,canonical,protein_coding
+ENST00000658994,,Apical Radial Glia (aRG) - Cycling,BP,3M,4.19428425289099e-05,4.33640747130471,non-canonical,lncRNA
+ENST00000249647,SNAP23,Outer Radial Glia (oRG),BP,3M,0.00580470630796599,2.1713214679856,canonical,protein_coding
+ENST00000502677,RASGRF2,Cortical Hem Cells,BP,3M,0.0421051519723816,6.22044076295117,non-canonical,retained_intron
+ENST00000393877,TMEM134,Cortical Hem Cells,BP,3M,0.0425531131571954,2.29473791380007,non-canonical,protein_coding

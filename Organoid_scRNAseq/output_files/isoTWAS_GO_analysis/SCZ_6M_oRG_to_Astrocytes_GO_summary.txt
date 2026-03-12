@@ -1,0 +1,90 @@
+================================================================================
+  GO Enrichment Analysis Summary
+  SCZ isoTWAS-DE Hits: oRG to Astrocytes (Transitioning) at 6M
+================================================================================
+
+Analysis Date:
+2025-10-28
+
+INPUT DATA:
+  CSV File: SCZ_6M_with_canonical.csv
+  Cell Type: oRG to Astrocytes (Transitioning)
+  Total Transcripts: 60
+  Unique Genes: 53
+
+GENE ID CONVERSION:
+  Input Genes: 53
+  Successfully Converted: 51 (96.2%)
+  Failed Conversions: 2
+
+GO ENRICHMENT PARAMETERS:
+  p-value cutoff: 0.05
+  q-value cutoff: 0.05
+  p-adjust method: BH
+
+ENRICHMENT RESULTS:
+
+Biological Process (BP):
+
+  ✓ Enriched Terms: 871
+
+  Top 5 Enriched Terms:
+
+    1. antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-independent
+       p.adjust = 7.70e-02, Count = 2
+    2. antigen processing and presentation of endogenous peptide antigen via MHC class Ib
+       p.adjust = 7.70e-02, Count = 2
+    3. antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway
+       p.adjust = 7.70e-02, Count = 2
+    4. establishment of epithelial cell apical/basal polarity
+       p.adjust = 7.70e-02, Count = 2
+    5. positive regulation of alpha-beta T cell activation
+       p.adjust = 7.70e-02, Count = 3
+
+Molecular Function (MF):
+
+  ✓ Enriched Terms: 119
+
+  Top 5 Enriched Terms:
+
+    1. T cell receptor binding
+       p.adjust = 3.48e-02, Count = 2
+    2. nuclear receptor binding
+       p.adjust = 2.16e-01, Count = 3
+    3. peptide antigen binding
+       p.adjust = 2.16e-01, Count = 2
+    4. nuclear receptor coactivator activity
+       p.adjust = 2.33e-01, Count = 2
+    5. profilin binding
+       p.adjust = 2.33e-01, Count = 1
+
+Cellular Component (CC):
+
+  ✓ Enriched Terms: 151
+
+  Top 5 Enriched Terms:
+
+    1. lumenal side of membrane
+       p.adjust = 5.67e-04, Count = 4
+    2. retromer complex
+       p.adjust = 7.59e-02, Count = 2
+    3. MHC protein complex
+       p.adjust = 7.59e-02, Count = 2
+    4. lumenal side of endoplasmic reticulum membrane
+       p.adjust = 1.11e-01, Count = 2
+    5. ER to Golgi transport vesicle membrane
+       p.adjust = 2.26e-01, Count = 2
+
+OUTPUT FILES:
+  Output Directory: ./output_files/isoTWAS_GO_analysis
+
+  Generated files:
+    - SCZ_6M_oRG_to_Astrocytes_gene_list.csv
+    - SCZ_6M_oRG_to_Astrocytes_[BP/MF/CC]_dotplot.pdf
+    - SCZ_6M_oRG_to_Astrocytes_[BP/MF/CC]_barplot.pdf
+    - SCZ_6M_oRG_to_Astrocytes_[BP/MF/CC]_results.csv
+    - SCZ_6M_oRG_to_Astrocytes_[BP/MF/CC]_results.rds
+    - SCZ_6M_oRG_to_Astrocytes_GO_summary.txt
+
+================================================================================
+

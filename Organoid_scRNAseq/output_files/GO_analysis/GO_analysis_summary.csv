@@ -1,0 +1,10 @@
+"timepoint","ontology","n_terms","n_clusters"
+"1M_Org","BP",3980,9
+"1M_Org","MF",432,9
+"1M_Org","CC",771,9
+"3M_Org","BP",4424,8
+"3M_Org","MF",436,8
+"3M_Org","CC",696,8
+"6M_Org","BP",3132,8
+"6M_Org","MF",474,7
+"6M_Org","CC",720,8

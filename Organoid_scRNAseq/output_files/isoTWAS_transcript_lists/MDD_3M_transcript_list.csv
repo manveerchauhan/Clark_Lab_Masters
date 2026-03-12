@@ -1,0 +1,5 @@
+transcript_id,gene_symbol,cell_type_of_origin,trait,timepoint,p_val_adj,avg_log2FC
+ENST00000641294,MIR193BHG,Cortical Hem Cells,MDD,3M,5.2512275582946e-15,6.64775261688146
+ENST00000361477,ASTN2,Corticothalamic Projection Neurons (Deep Layer),MDD,3M,1.98640045356495e-05,3.13039728707011
+ENST00000353267,CREB1,Glutamatergic Neurons (Unspecified Layer),MDD,3M,0.000704498070911426,-1.04115639740128
+ENST00000377199,TRIM27,Glutamatergic Neurons (Unspecified Layer),MDD,3M,0.00274532330031531,0.737371012686416

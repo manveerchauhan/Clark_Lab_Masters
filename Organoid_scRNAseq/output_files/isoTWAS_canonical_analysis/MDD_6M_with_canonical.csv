@@ -1,0 +1,7 @@
+transcript_id,gene_symbol,cell_type_of_origin,trait,timepoint,p_val_adj,avg_log2FC,canonical_status,tx_biotype
+ENST00000423207,PDE4B,oRG to Astrocytes (Transitioning),MDD,6M,1.19406980723944e-26,1.06823316071586,non-canonical,protein_coding
+ENST00000367393,C1orf53,oRG to Astrocytes (Transitioning),MDD,6M,1.23329078572536e-26,1.98057052983795,canonical,protein_coding
+ENST00000423207,PDE4B,Interneurons,MDD,6M,7.02344534103534e-15,-2.48215085601316,non-canonical,protein_coding
+ENST00000367393,C1orf53,Interneurons,MDD,6M,0.000788381732203183,-1.32695095128438,canonical,protein_coding
+ENST00000480109,PDE4B,oRG to Astrocytes (Transitioning),MDD,6M,0.00103868158513396,1.14977687227906,non-canonical,protein_coding
+ENST00000353267,CREB1,Glutamatergic Neurons,MDD,6M,0.00733963395181063,-0.739272368701294,canonical,protein_coding
